@@ -6,5 +6,6 @@ def my_select(collection)
      newset.push(array[counter])
    end
    counter += 1 
-   
+ end
+ return
 end

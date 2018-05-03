@@ -1,6 +1,6 @@
 def my_select(collection)
  newset = []
  counter = 0 
- 
- if 
+ while counter < collection.size do
+   if 
 end

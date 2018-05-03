@@ -3,5 +3,5 @@ def my_select(collection)
  counter = 0 
  while counter < collection.size do
    if array[counter] ==true
-     return 
+     newset.pop
 end

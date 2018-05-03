@@ -4,4 +4,7 @@ def my_select(collection)
  while counter < collection.size do
    if array[counter] ==true
      newset.push(array[counter])
+   end
+   counter += 1 
+   
 end
